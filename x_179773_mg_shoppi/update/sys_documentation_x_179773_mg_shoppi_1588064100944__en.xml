@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Mg Shoppi 1588064100944" language="en" table="x_179773_mg_shoppi_1588064100944">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Mg Shoppi 1588064100944</label>
+            <language>en</language>
+            <name>x_179773_mg_shoppi_1588064100944</name>
+            <plural>Mg Shoppi 1588064100944s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-28 08:55:03</sys_created_on>
+            <sys_id>d8e70d0807601010073df16c7c1ed064</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mg Shoppi 1588064100944</sys_name>
+            <sys_package display_value="MG Shopping List" source="x_179773_mg_shoppi">87a609c407201010073df16c7c1ed03e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MG Shopping List">87a609c407201010073df16c7c1ed03e</sys_scope>
+            <sys_update_name>sys_documentation_x_179773_mg_shoppi_1588064100944__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-28 08:55:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

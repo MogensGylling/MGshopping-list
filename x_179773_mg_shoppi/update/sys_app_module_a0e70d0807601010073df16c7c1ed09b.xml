@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Mg Shoppi 1588064100944</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_179773_mg_shoppi_1588064100944</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 08:55:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a0e70d0807601010073df16c7c1ed09b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mg Shoppi 1588064100944</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MG Shopping List" source="x_179773_mg_shoppi">87a609c407201010073df16c7c1ed03e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MG Shopping List">87a609c407201010073df16c7c1ed03e</sys_scope>
+        <sys_update_name>sys_app_module_a0e70d0807601010073df16c7c1ed09b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 08:55:04</sys_updated_on>
+        <timeline_page/>
+        <title>Mg Shoppi 1588064100944</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
